@@ -65,7 +65,6 @@ In this project I was in charge of processing data gathered on different sources
 
 Tech stack: 
 - Java
-- ElasticSearch
 - PostgreSQL
 - Excel
 - DevOps: Docker, Prometheus, Grafana, Sentry
