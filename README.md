@@ -7,7 +7,7 @@ Reading 📚: Microservices for the Enterprise: Designing, Developing, and Deplo
 ## Social:
 [![](https://img.shields.io/badge/-@JosepBove-%23181717?style=flat-square&logo=github)](https://github.com/JosepBove)
 [![](https://img.shields.io/badge/-@JosepBove-orange?style=flat-square&logo=gitlab)](https://gitlab.com/JosepBove)
-[![](https://img.shields.io/badge/-Delfos%239513-%232c2f33?style=flat-square&logo=discord)]()
+[![](https://img.shields.io/badge/-Delfos%239999-%232c2f33?style=flat-square&logo=discord)]()
 
 
 ## Languages:
