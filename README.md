@@ -1,13 +1,9 @@
 # JosepBove 
 
-Interested in DevOps, containerization and microservices. Doing side projects while I do some freelance jobs and study Computer Engineering at La Salle BCN.
-
-Reading 📚: Microservices for the Enterprise: Designing, Developing, and Deploying by Kasun Indrasiri and Prabath Siriwardena (2018)
-
 ## Social:
 [![](https://img.shields.io/badge/-@JosepBove-%23181717?style=flat-square&logo=github)](https://github.com/JosepBove)
 [![](https://img.shields.io/badge/-@JosepBove-orange?style=flat-square&logo=gitlab)](https://gitlab.com/JosepBove)
-[![](https://img.shields.io/badge/-Delfos%239999-%232c2f33?style=flat-square&logo=discord)]()
+[![](https://img.shields.io/badge/-JosepBove%239999-%232c2f33?style=flat-square&logo=discord)]()
 
 
 ## Languages:
